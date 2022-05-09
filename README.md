@@ -9,7 +9,7 @@
 
 ```javascript
 const duy = {
-  pronouns: "she" | "her",
+  pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python, PHP],
   framework : [Laravel],
   database: [MySql],
