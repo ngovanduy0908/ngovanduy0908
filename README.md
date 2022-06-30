@@ -10,8 +10,8 @@
 ```javascript
 const duy = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, PHP],
-  framework : [Laravel],
+  code: [Javascript, HTML, CSS, Python, PHP, NodeJs],
+  framework : [Laravel, ReactJS],
   database: [MySql],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
