@@ -12,13 +12,8 @@ const duy = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python, PHP, NodeJs],
   framework : [Laravel, ReactJS],
-  database: [MySql],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
+  database: [MySql, MongoDB],
+  architecture: ["microservices", "event-driven", "design system pattern"]
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
