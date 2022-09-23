@@ -10,8 +10,8 @@
 ```javascript
 const duy = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, PHP, NodeJs],
-  framework : [Laravel, ReactJS],
+  code: [Javascript, TypeScript, PHP, NodeJs],
+  framework : [Laravel, ReactJS, NextJs],
   database: [MySql, MongoDB],
   architecture: ["microservices", "event-driven", "design system pattern"]
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
