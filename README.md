@@ -11,8 +11,8 @@
 const duy = {
   pronouns: "he" | "him",
   code: [Javascript, PHP, NodeJs],
-  framework : [ReactJS],
-  database: [MySql],
+  framework : [ReactJS, NestJS],
+  database: [MySql, Prisma],
   architecture: ["microservices", "event-driven", "design system pattern"]
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
